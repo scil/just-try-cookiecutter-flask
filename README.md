@@ -5,12 +5,12 @@ cookiecutter-flask provides a model User which has conflict with flask-admin.(se
 
 ## flask-admin with flask-login?
 
-Gived up at this stage: [This repository is a good example of how flask-login and flask-security can be connected with flask-admin.](https://stackoverflow.com/questions/11804922/flask-admin-flask-login-and-or-flask-principal?rq=1)
+Gived up at this stage: [This repository flask-react-spa is a good example of how flask-login and flask-security can be connected with flask-admin.](https://stackoverflow.com/questions/11804922/flask-admin-flask-login-and-or-flask-principal?rq=1)
 
-
-But there's some other ways:
+These ways:
+- [flask-react-spa](https://github.com/briancappello/flask-react-spa)
 - [flask-admin flask-security](https://stackoverflow.com/questions/31091637/how-to-secure-the-flask-admin-panel-with-flask-security)
 - [Flask-Admin vs Flask-AppBuilder](https://stackoverflow.com/questions/30126607/flask-admin-vs-flask-appbuilder)
-- [flask-react-spa](https://github.com/briancappello/flask-react-spa)
+
 
 
