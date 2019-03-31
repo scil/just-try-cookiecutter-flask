@@ -11,4 +11,6 @@ Gived up at this stage: [This repository is a good example of how flask-login an
 But there's some other ways:
 - [flask-admin flask-security](https://stackoverflow.com/questions/31091637/how-to-secure-the-flask-admin-panel-with-flask-security)
 - [Flask-Admin vs Flask-AppBuilder](https://stackoverflow.com/questions/30126607/flask-admin-vs-flask-appbuilder)
+- [flask-react-spa](https://github.com/briancappello/flask-react-spa)
+
 
