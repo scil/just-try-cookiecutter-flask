@@ -1,7 +1,7 @@
 
 only a try to use [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask) without [flask-admin](https://flask-admin.readthedocs.io/en/latest/). 
 
-cookiecutter-flask provides a model User which has conflict with flask-admin.(see: (PR Add Flask-Admin)[https://github.com/sloria/cookiecutter-flask/pull/72/files])
+cookiecutter-flask provides a model User which has conflict with flask-admin.(see: (PR Add Flask-Admin)[https://github.com/sloria/cookiecutter-flask/pull/72/files]). So temp comment this line to disable cookiecutter User model `app.register_blueprint(user.views.blueprint)` in [app.py](https://github.com/scil/just-try-cookiecutter-flask/blob/master/uper/uper/app.py)
 
 ## flask-admin with flask-login?
 
